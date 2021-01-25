@@ -9,7 +9,7 @@ console.log(first, second)
 
 ReactDOM.render(
   <React.StrictMode>
-    <App name='love'/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
